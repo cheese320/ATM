@@ -4,7 +4,8 @@ Module2-atm/
 │   ├── __init__.py
 │   ├── bin #ATM 执行文件 目录
 │   │   ├── __init__.py
-│   │   └── main.py  #ATM 执行程序
+│   │   ├── main.py  #ATM 主程序
+│   │   └── path_define.py  # 直接执行主程序
 │   ├── conf #配置文件
 │   │   ├── __init__.py
 │   │   └── settings.py
