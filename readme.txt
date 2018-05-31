@@ -29,3 +29,5 @@ Module2-atm/
 │       ├── __init__.py
 │       ├── access.log #用户访问和操作的相关日志
 └──     └── transactions.log    #所有的交易日志
+
+注:程序执行环境 1. python 3.0; 2. windows 10; 3. IDE: pycharm
