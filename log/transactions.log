@@ -1,0 +1,19 @@
+2018-05-31 10:19:07,123-transaction-INFO-用户Alex花费6000购买商品iphone
+2018-05-31 10:19:53,043-transaction-INFO-用户还款8000元整
+2018-05-31 10:19:53,043-transaction-INFO-用户还款8000元整
+2018-05-31 10:21:22,515-transaction-INFO-用户还款300元整
+2018-05-31 10:21:29,870-transaction-INFO-用户Lucy借款900元, 利息45.0元
+2018-05-31 10:21:29,870-transaction-INFO-用户Lucy借款900元, 利息45.0元
+2018-05-31 10:23:43,076-transaction-INFO-用户Lucy借款1000元, 利息50.0元
+2018-05-31 10:23:43,076-transaction-INFO-用户Lucy借款1000元, 利息50.0元
+2018-05-31 10:24:42,853-transaction-INFO-用户Lucy花费15150.0购买商品book
+2018-05-31 10:25:56,637-transaction-INFO-用户Lucy花费6150.0购买商品iphone
+2018-05-31 10:30:02,052-transaction-INFO-用户Lucy取款900元, 利息45.0元
+2018-05-31 10:31:22,556-transaction-INFO-用户Lucy转帐1000元, 利息50.0元
+2018-05-31 10:31:22,556-transaction-INFO-用户Lucy转帐1000元, 利息50.0元
+2018-05-31 10:34:54,772-transaction-INFO-用户还款800元整
+2018-05-31 10:35:12,596-transaction-INFO-用户Alex取款1000元, 利息50.0元
+2018-05-31 10:35:12,596-transaction-INFO-用户Alex取款1000元, 利息50.0元
+2018-05-31 10:35:23,732-transaction-INFO-用户Alex转帐8000元, 利息400.0元
+2018-05-31 10:35:23,732-transaction-INFO-用户Alex转帐8000元, 利息400.0元
+2018-05-31 10:35:23,732-transaction-INFO-用户Alex转帐8000元, 利息400.0元
